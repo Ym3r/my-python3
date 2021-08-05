@@ -20,10 +20,15 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/_____ /
 *******************************************************************************
 ''')
+#ASCII Art @ascii.co.uk can be used to get all different types of drawings.
+#Play around and change some lines in code to make it more fun.
+
 print("Welcome to Treasure Island.")
-print("Your mission is to find the treasure.") 
+print("Your mission, should you choose to accept is to find the treasure.") 
 
 choice1 = input('You\'re at a cross road. Where do you want to go? Type "left" or "right".\n ').lower()
+
+#The multiple if's had me stuck for a bit and my logic really came in handy. I also got some help from stackoverflow.
 
 if choice1 == "left":
   choice2 = input('You\'ve come to a lake and there is an island in the middle of the lake. Type "wait" to wait for a boat or type "swim" to swim across.\n').lower()
