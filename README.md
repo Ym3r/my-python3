@@ -1,4 +1,7 @@
-# My-Beginner-Python-Learning-Exercises
+# Python Learning Exercises
 
-100 Days of Code with Dr Angela Yu and my Codecademy subscription has helped in getting a decent foundation, which will hopefully lead to more complaex coding in order to contribute to open source projects where I can.
-Having completed the Python3 course on Codecademy, I would say that the part I have found most challenging was working with Classes.
+This repo contains various learning material I have encountered so far as part of this journey. I have completed Python3 courses on Codecademy, LinkedIn Learning, A Cloud Guru, and several other self-taught videos.
+
+I am currently following the course 100 Days of Code from Dr Angela Yu. 
+
+The goal is to become proficient and land somewhere between intermediate and advanced, and contribute to Open Source Community.
